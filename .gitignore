@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+bin/
+bin
+Debug/
+Debug
+Release
+Release/
+build/
+build
+
+# visual studio code
+.vscode/
+.vscode
+
+# visual studio
+.vs/
+out/ 
+CMakeSettings.json
+*.sln
+*.filters
+*.vcxproj
